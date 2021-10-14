@@ -31,7 +31,7 @@ node src/setup.js
 
 npm run start
 
-NOTE: detta kör scriptet "start", som inkluderar "nodemon app.js".
+NOTE: detta kör scriptet "start", som inkluderar "node app.js".
 
 ## Routes strukturen
 
